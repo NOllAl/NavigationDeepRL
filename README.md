@@ -50,4 +50,7 @@ pip install -e '.[box2d]'
 
 5. Place the downloaded file in the project folder and unzip it.
 
+6. Install the required packages with `pip install -r requirements.txt`
+
 Now you're good to go!
+
