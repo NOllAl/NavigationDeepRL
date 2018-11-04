@@ -54,3 +54,8 @@ pip install -e '.[box2d]'
 
 Now you're good to go!
 
+# Solved agent
+
+See here for how the double DQN agent performs:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rT_opLZS6SI/0.jpg)](https://www.youtube.com/watch?v=rT_opLZS6SI)
